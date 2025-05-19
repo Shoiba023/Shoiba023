@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Assalamualaikum! I'm Shoiba Ali
 
-<!--
-**Shoiba023/Shoiba023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IBM Certified AI Engineer | 🧠 LLM Developer | 💻 AI Product Innovator
 
-Here are some ideas to get you started:
+I build real-world AI applications using:
+- LangChain 🔗
+- Gradio 🖥️
+- Hugging Face 🤗
+- Python 🐍
+- Google Sheets API 📄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 My Projects
+
+### 🌙 Dua Counter App
+> A prayer counting app using Gradio + Google Sheets  
+[Live Preview coming soon]
+
+### 🗣️ AI Screen Reader
+> OCR + BART + TTS-based image-to-speech app  
+🟢 [Live App on Hugging Face](https://huggingface.co/spaces/Shoiba/screen-reader-ai)
+
+---
+
+## 🧰 Tools & Skills
+- Python, Transformers, LangChain
+- Hugging Face Spaces, TTS/STT
+- Gradio, Streamlit, Flask
+- Prompt Engineering, AI pipelines
+
+---
+
+## 💬 Connect With Me
+- Fiverr: [Your Gig Link]
+- LinkedIn: [Your LinkedIn URL]
